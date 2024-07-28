@@ -14,3 +14,6 @@ https://www.youtube.com/@nullnull_not_eq_null
 ### 4. 쉬운코드
 https://www.youtube.com/@ez./videos
 
+### 5. 양동준
+https://solo.to/dongjun_yang
+
