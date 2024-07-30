@@ -30,3 +30,6 @@ https://www.youtube.com/@457deep
 
 ### 10. AWS 강의실 (AWS서비스, 네트워크 기초 강좌등.. 특히 난이도별 AWS강의가 내용이 좋음)
 https://www.youtube.com/@AWSClassroom
+
+### 11. 기술노트with 알렉 (모든 영상이 좋다. 회원 전용 영상도 추천함)
+https://www.youtube.com/@with2511
